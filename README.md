@@ -6,7 +6,7 @@
   - Kemudian jalankan php artisan key:generate.
   - lalu Jalankan app laravel dengan php artisan serve
 
-# RUNNING FRONEND ( React.js )
+# RUNNING FRONTEND ( React.js )
   - Buka direktori frontend
   - Jalankan npm install
   - Jalankan aplikasi npm start
