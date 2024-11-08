@@ -8,4 +8,5 @@
 
 # RUNNING FRONEND ( React.js )
   - Buka direktori frontend
+  - Jalankan npm install
   - Jalankan aplikasi npm start
